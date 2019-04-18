@@ -1,4 +1,4 @@
-defmodule ***REMOVED*** do
+defmodule <removed> do
     def sample_xyz do
         "yx y z x x x f f e f e ff e fee xeef eee"
     end
